@@ -1,2 +1,2 @@
-# veilwire-game-3DHorror
-Veil &amp; Wire Studio 3D Horror Game made with UE5
+# gatehouse-game-3DHorror
+Gatehouse Interactive 3D Horror Game made with UE5
